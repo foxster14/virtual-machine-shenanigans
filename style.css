@@ -12,3 +12,9 @@ div {
     text-align: center;
     border: 3px solid black;
 }
+
+ul {
+    text-align:left;
+    padding: 0 400px;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
